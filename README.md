@@ -73,6 +73,7 @@
 **使用说明：** 无需注册或填写 API Key；支持电脑和手机访问。部分项目仍在开发中，页面已区分在线演示、本地原型与规划状态。
 
 [访问个人网站](https://haluwjm-lexie.github.io/Lexie_Introduction/) · [查看源码](https://github.com/Haluwjm-Lexie/Lexie_Introduction)
+
 ---
 
 💡 持续探索 AI 产品、Agent 工作流和 Vibe Coding，正在把更多想法变成真实可用的产品。
