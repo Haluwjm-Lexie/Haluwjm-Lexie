@@ -50,6 +50,18 @@
 
 [在线体验](https://haluwjm-lexie.github.io/daily-coach/) · [查看源码](https://github.com/Haluwjm-Lexie/daily-coach)
 
+### 5. [Love Rating｜恋爱现实选择互动测试](https://github.com/Haluwjm-Lexie/love-rating)
+
+一个面向年轻女性的轻量互动网页，通过恋爱情境选择，探索亲密关系中的自主权、资源边界与现实取舍。
+
+围绕向上社交、消费差距、事业机会、隐形劳动与沉没成本等话题，设计 12 道情境题；根据回答生成趣味类型、四个方面的选择倾向与专属提醒，并提供现实指南、进度保存、返回修改和结果卡图片下载。
+
+**核心能力：** 用户场景拆解、互动产品设计、内容与规则设计、浏览器本地数据管理、响应式界面与 Vibe Coding。
+
+**使用说明：** 无需注册或填写 API Key；进度保存在当前浏览器中。结果由预设规则生成，用于趣味自我探索，不作为专业心理测评。
+
+[在线体验](在这里替换为你的GitHub-Pages网址) · [查看源码](https://github.com/Haluwjm-Lexie/love-rating)
+
 ---
 
 💡 持续探索 AI 产品、Agent 工作流和 Vibe Coding，正在把更多想法变成真实可用的产品。
