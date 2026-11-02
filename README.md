@@ -38,6 +38,18 @@
 
 **公开体验版：** 使用演示业务数据与浏览器内规则模型，无需注册；不连接真实交易，未接入 DeepSeek。
 
+### 4. [Daily Coach｜AI 目标管理与每日复盘助手](https://github.com/Haluwjm-Lexie/daily-coach)
+
+一个面向自主学习者与个人创作者，连接目标设定、专注计时与 AI 每日复盘的轻量工具。
+
+支持个人画像、阶段目标、今日目标、计时与任务备注；结合日思录，通过 DeepSeek 生成今日分析与明日建议，并支持日报图片导出、连续打卡与历史报告查看，帮助用户把每天的投入转化为可回顾的行动记录。
+
+**核心能力：** 用户需求拆解、Prompt Engineering、AI API 集成、浏览器本地数据管理、响应式界面与 Vibe Coding。
+
+**使用说明：** 无需注册；记录保存在当前浏览器中，AI 日报需使用者填写自己的 DeepSeek API Key。
+
+[在线体验](https://haluwjm-lexie.github.io/daily-coach/) · [查看源码](https://github.com/Haluwjm-Lexie/daily-coach)
+
 ---
 
 💡 持续探索 AI 产品、Agent 工作流和 Vibe Coding，正在把更多想法变成真实可用的产品。
