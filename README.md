@@ -28,6 +28,16 @@
 
 **核心能力：** AIGC、Prompt Engineering、Skill 设计、多步骤内容生产工作流。
 
+### 3. [CrystalOps｜AI 客服与运营工作台](https://github.com/Haluwjm-Lexie/crystalops-demo)
+
+一个以水晶手串电商为场景，基于 Plan × Skill × Tool × Eval 构建的客服工作台。
+
+支持商品推荐、尺寸咨询与优惠计算；通过 Planner 查看任务计划，在执行工作台追踪能力调用和业务证据，并通过 Skill 实验、自动评测与人工评分验证回复表现。
+
+**核心能力：** Agent 工作流设计、业务需求拆解、Prompt Engineering、工具调用、执行过程可视化、评测设计与 Vibe Coding。
+
+**公开体验版：** 使用演示业务数据与浏览器内规则模型，无需注册；不连接真实交易，未接入 DeepSeek。
+
 ---
 
 💡 持续探索 AI 产品、Agent 工作流和 Vibe Coding，正在把更多想法变成真实可用的产品。
