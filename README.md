@@ -62,6 +62,17 @@
 
 [在线体验](在这里替换为你的GitHub-Pages网址) · [查看源码](https://github.com/Haluwjm-Lexie/love-rating)
 
+### 6. [Lexie Introduction｜个人 AI 产品作品集与简历网站](https://github.com/Haluwjm-Lexie/Lexie_Introduction)
+
+一个展示我的 AI 产品实践、个人经历与职业方向的交互式个人网站，让招聘方和合作伙伴通过真实作品认识我。
+
+重点展示 Daily Coach、CrystalOps 和 Personal OS，结合产品截图、在线体验入口、项目思路与经历介绍，呈现从需求拆解到产品落地的实践。支持动态流程图、平滑滚动、截图放大、中英文切换、明暗主题与微信联系弹窗。
+
+**核心能力：** 信息架构、产品展示与交互设计、响应式界面、AI 辅助开发与 GitHub Pages 部署。
+
+**使用说明：** 无需注册或填写 API Key；支持电脑和手机访问。部分项目仍在开发中，页面已区分在线演示、本地原型与规划状态。
+
+[访问个人网站](https://haluwjm-lexie.github.io/Lexie_Introduction/) · [查看源码](https://github.com/Haluwjm-Lexie/Lexie_Introduction)
 ---
 
 💡 持续探索 AI 产品、Agent 工作流和 Vibe Coding，正在把更多想法变成真实可用的产品。
