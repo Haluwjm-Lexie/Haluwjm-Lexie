@@ -74,6 +74,20 @@
 
 [访问个人网站](https://haluwjm-lexie.github.io/Lexie_Introduction/) · [查看源码](https://github.com/Haluwjm-Lexie/Lexie_Introduction)
 
+
+### 7. AI Daily｜AI 资讯聚合与 GitHub Trending 自动化日报平台
+
+一个面向 AI 学习者、开发者和科技爱好者的 AI 信息聚合平台，将分散的 AI 行业动态与开源项目整理成可阅读、可检索、可长期积累的资讯档案。
+
+以 AI Hot 为主要信息源，支持 AI 日报、周报、月报、季报、年报浏览，以及 GitHub Trending 热门开源项目追踪。通过 GitHub Actions 实现定时采集、自动构建与发布，并持续保存历史日报和开源项目榜单，避免每次更新覆盖旧数据。
+
+**核心能力：** AI 资讯聚合、数据采集与去重、历史归档、GitHub Trending 追踪、静态网站部署、GitHub Actions 自动化工作流。
+
+**使用说明：** 无需注册或填写 API Key，支持电脑和手机浏览器访问。公开版可直接阅读历史资讯、收藏内容及查看开源项目；GitHub Star 需通过访问者自己的 GitHub 账号完成。
+
+[在线体验](https://haluwjm-lexie.github.io/AI-Daily/) · [查看源码](https://github.com/Haluwjm-Lexie/AI-Daily)
+
+
 ---
 
 💡 持续探索 AI 产品、Agent 工作流和 Vibe Coding，正在把更多想法变成真实可用的产品。
