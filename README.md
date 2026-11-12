@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Hi, 我是 Lexie👋
+### Hi, 我是 Lexie（王杰美）👋
 
 **AI Product Builder · AI 产品经理 / AI 应用与 Agent 工作流设计**
 
@@ -78,6 +78,26 @@
 **证明的能力：** 自动化工作流 · 数据采集与去重 · 信息架构 · GitHub Actions · 持续发布
 
 [▶ 在线体验](https://haluwjm-lexie.github.io/AI-Daily/) · [查看仓库](https://github.com/Haluwjm-Lexie/AI-Daily)
+
+### 05 · [Modelwise — AI 模型选型与成本分析](https://github.com/Haluwjm-Lexie/Modelwise)
+
+**让模型选择从“凭感觉”变成“按场景比较、可解释地算成本”。** 整理主流模型与产品信息，支持按业务场景比较模型能力、价格和 Token 成本，并通过 GitHub Actions 定期核查公开资料。
+
+**证明的能力：** AI 模型选型 · 成本与收益意识 · 信息整合 · 可解释决策 · 自动化更新
+
+[▶ 在线体验](https://haluwjm-lexie.github.io/Modelwise/) · [查看仓库](https://github.com/Haluwjm-Lexie/Modelwise)
+
+<sub>模型价格与服务状态变化较快，实际选型和采购前应核对官方资料；成本估算不代表真实项目效果。</sub>
+
+### 06 · [Skill Lab — Agent Skill 结构与规则实验室](https://github.com/Haluwjm-Lexie/Skill-Lab)
+
+**让 Skill 从抽象概念变成可以阅读、修改、检查和比较的结构化资产。** 在线演示版支持导入 Skill、查看 SKILL.md、编辑规则、执行结构检查与示例回放，帮助理解可复用 Agent 能力的设计和维护方式。
+
+**证明的能力：** Agent Skill 规范 · 工作流模块化 · 输入输出设计 · 规则验证 · 交互式教学产品
+
+[▶ 在线体验](https://haluwjm-lexie.github.io/Skill-Lab/) · [查看仓库](https://github.com/Haluwjm-Lexie/Skill-Lab)
+
+<sub>公开版是静态结构检查与示例回放，不会执行脚本或调用真实大模型；本地实验版与线上演示版能力不同。</sub>
 
 ## 🗂️ 全部作品 / Project Library
 
