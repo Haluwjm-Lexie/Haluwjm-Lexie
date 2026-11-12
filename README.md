@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Hi, 我是 Lexie（王杰美）👋
+### Hi, 我是 Lexie👋
 
 **AI Product Builder · AI 产品经理 / AI 应用与 Agent 工作流设计**
 
